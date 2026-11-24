@@ -13,7 +13,7 @@
 
 ## 2. Install, build and run
 ```
-git clone <this repository>
+git clone https://github.com/abderrahmaneredjil-ui/sorting-algorithms.git
 cd sorting-algorithms
 make            # builds ./sorting   (Windows/MSYS2 UCRT64: same command, creates sorting.exe)
 ./sorting       # run from the project root so results/results.csv can be written
